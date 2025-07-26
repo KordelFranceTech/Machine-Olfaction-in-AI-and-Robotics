@@ -15,5 +15,7 @@ If you find this survey useful in your own work, please use the following for th
   institution={University of Texas at Dallas},
   author={France, Kordel Kade and Daescu, Ovidiu},
   year={2025},
-  pages={39}}
+  pages={39}
+}
 ```
+Usage of _any_ figures within the document should cite the authors noted in the caption associated with that figure. 
