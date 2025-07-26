@@ -14,7 +14,7 @@ Unlike vision, language, and audio models, which benefit from extensive corpora 
 This gap hinders progress and delays the achievement of intelligence milestones in artificial olfaction.
 Adaptive learning presents a critical path forward, enabling machine olfaction to evolve alongside advancements in computer vision, natural language processing, and auditory intelligence.
 In this survey, we explore why adaptive learning is essential for olfaction and highlight the instruments and theoretical foundations that uniquely position it to benefit from active sensing methodologies.
-We argue for the necessity of active and continuous learning over small datasets for attaining state-of-the-art performance in tasks such as classification, navigation, and general olfactory reasoning.
+We argue for the necessity of adaptive and continuous learning over small datasets for attaining state-of-the-art performance in tasks such as classification, navigation, and general olfactory reasoning.
 Our review covers key components that facilitate adaptive learning, including multi-modal learning, swarm intelligence, game theory, neuromorphic computing, and uncertainty quantification.
 Through this survey, we aim to advance understanding of machine olfaction, chemical sensing techniques, and frameworks for active, continual machine learning.
 We hope to inspire interdisciplinary researchers to push the boundaries of olfactory robotics and and drive progress in this crucial but underexplored domain._
