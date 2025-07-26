@@ -34,3 +34,4 @@ If you find this survey useful in your own work, please use the following for th
 }
 ```
 Usage of _any_ figures within the document should cite the authors noted in the caption associated with that figure. 
+All figures used in the survey were either constructed by the authors, used under written permission by the authors from whence they came, or leveraged from research licensed under [CC4.0](https://creativecommons.org/licenses/by/4.0/).
